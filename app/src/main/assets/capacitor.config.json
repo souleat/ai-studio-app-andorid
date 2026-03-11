@@ -1,0 +1,9 @@
+{
+	"appId": "com.test.aistudio",
+	"appName": "ai-studio-app",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "http",
+		"cleartext": true
+	}
+}

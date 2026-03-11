@@ -1,0 +1,1 @@
+import{d as t,c as n,e as o,b as r}from"./index-pPyzNrjH.js";const s={class:"report-page"},c=t({__name:"index",setup(a){return(l,e)=>(r(),n("div",s,[...e[0]||(e[0]=[o("h1",null,"Report Module",-1),o("p",null,"C01 Placeholder",-1)])]))}});export{c as default};
