@@ -1,3 +1,6 @@
-workflows:
-  android-build:
-    androidPath: android
+web:
+  artifact: dist
+
+native:
+  android:
+    path: android
